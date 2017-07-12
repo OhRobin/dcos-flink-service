@@ -39,9 +39,9 @@ Prequisite:
 
 3. Submit Job
 
-  1. UI
+    1. UI
 
-  2. Docker Container
+    2. Docker Container
 
       `dcos node ssh --leader --master-proxy`
 
